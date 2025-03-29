@@ -75,19 +75,4 @@ body {
     margin-top: 80px;
     text-align: center;
 }
-footer {
-    text-align: center;
-    margin-top: -50px;
-    padding: 20px;
-    color: #4e8eae;
-    border-top: 1px solid #ddd;
-}
 
-footer a {
-    color: #0b0d13;
-    text-decoration: none;
-}
-
-footer a:hover {
-    text-decoration: underline;
-}
